@@ -1,6 +1,6 @@
-# IPVP PaperSpigot 1.7 Fork #
-<p>This is the primary repository for the IPVP PaperSpigot 1.7.10 software. PaperSpigot is a high performance 
-Spigot fork that aims to fix gameplay and mechanics inconsistencies. PaperSpigot 1.7.10 is no longer a supported
+# PotionSigot PaperSpigot 1.7 Fork #
+<p>This is the primary repository for the PotionSigot PaperSpigot 1.7.10 software. PotionSigot is a high performance 
+PaperSpigot fork that aims to fix gameplay and mechanics inconsistencies. PaperSpigot 1.7.10 is no longer a supported
 software by their development team; please do not bug them to fix any issues for you. You are free to submit
 issues via the Issue tracker on GitHub, we will aim to fix or add any issues you come across.</p>
 
