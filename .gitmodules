@@ -1,6 +1,6 @@
 [submodule "Bukkit"]
 	path = Bukkit
-	url = https://github.com/Bukkit/Bukkit.git
+	url = https://github.com/PotionSpigot/Bukkit.git
 [submodule "CraftBukkit"]
 	path = CraftBukkit
-	url = https://github.com/Zbob750/CraftBukkit.git
+	url = https://github.com/PotionSpigot/CraftBukkit.git
